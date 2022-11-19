@@ -1,0 +1,15 @@
+body { background-color: 41A3CA;}
+   body {font-family: 'Source Sans Pro', sans-serif; color: #000000;}
+   td.main {font-family: 'Source Sans Pro', sans-serif; font-size: 10pt; font-weight: 500; color: #000000;}
+   a.linkmain {font-family: 'Source Sans Pro', sans-serif;font-size: 10pt; font-weight: 500; color: #000000; }
+   a.linkhuman {font-family: 'Source Sans Pro', sans-serif;font-size: 10pt; font-weight: 500; color: #0000FF; }
+   td.header {font-family: 'Source Sans Pro', sans-serif; background: #FCC556; font-size: 10pt; font-weight: bold; color: #000000;}
+   td.plainheader {font-family: 'Source Sans Pro', sans-serif; background: #FCC556; font-family: tahoma; font-size: 24pt; font-weight: bold; color: #000000;}
+   td.headerbg {font-family: 'Source Sans Pro', sans-serif; background: #FCC556; font-family: tahoma; font-size: 8pt; font-weight: bold; color: #000000;}
+   tr.row1{font-family: 'Source Sans Pro', sans-serif;background: #F8F8F8;}
+   tr.row2{font-family: 'Source Sans Pro', sans-serif;background: #E7E7E7;}
+   tr.teamcolor{font-family: 'Source Sans Pro', sans-serif;background: #FCC556; color: #000000;}
+   td.teamheader {font-family: 'Source Sans Pro', sans-serif;background: #FCC556;  font-family: tahoma; font-size: 24pt; font-weight: bold; color: #000000;}
+   td.teamheader2 {font-family: 'Source Sans Pro', sans-serif;background: #FCC556;  font-family: tahoma; font-size: 10pt; font-weight: bold; color: #000000;}
+   td.tableheader {font-family: 'Source Sans Pro', sans-serif; font-size: 14pt; font-weight: bold; color: #000000;}
+   td.newheader {font-family: 'Bitter', serif; font-size: 24pt; font-weight: bold; color: #000000;}
